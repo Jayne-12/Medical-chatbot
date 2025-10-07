@@ -1,0 +1,559 @@
+                /*MY HEADER STARTS HERE*/
+*{
+width: 100%;
+margin: 0;
+padding: 0;
+}
+.header{
+    background-color: #23395d;
+   height: 10vh;
+   border-bottom: 1px solid black;
+}
+.header h3{
+    padding-right: 35px;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 24px;
+    color: white;
+}
+.out{
+    color: white !important;
+   font-size: 40px;
+   padding-right: 5px;
+ margin-right: 2px;
+
+}
+
+.header span{
+    color: orangered;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.header i{
+    text-align: right;
+position: relative;
+display: block;
+bottom: 25px;
+color: white;
+}
+.boy{
+    padding-bottom: 60px;
+    color: white;
+    
+}
+                /*MY HEADER END HERE*?
+/*IF YOU NO UNDERSTAND WHILE READING, E CONCERN YOU LOL!!!*/
+.ads{
+    background-color:whitesmoke;
+   height: 10vh;
+   border-bottom: 2px solid grey;
+}
+.front{ font-size: 12px;
+text-align: left;
+display: flex;
+padding-top: 25px;
+}
+.front i{
+    color: lightgrey;
+   left: 30px;
+}
+.search{
+width: 40px;
+padding-left: 25px;
+}
+.square{
+width: 40px;
+padding-left: 60px;
+padding-top: 2px;
+}
+.bell{
+width: 80px;
+margin-left: 550px;
+padding-left: 30px;
+}
+.comment{
+width: 15px;
+margin-left:50px ;
+text-align: left;
+}
+.vision{
+    text-align: right;
+    width: 30px;
+    padding-top: 5px;
+}
+.user{
+    padding-right: 8px;
+    padding-top: 16px;
+    font-size: 24px;
+    width: 50px;
+    margin-right: 1px;
+    margin-top: 20px;
+}
+sup{font-weight: bold;
+    background-color: lightcoral;
+    color: black;
+    border-radius: 1px;
+text-align: center;
+padding-top: 7px;
+width: 15px;
+height: 15px;
+border-radius: 5px;
+padding-left: 2px;
+}
+.sup{
+    font-weight: bold;
+    background-color: lightgreen;
+    color: black;
+    border-radius: 1px;
+text-align: center;
+padding-top: 7px;
+width: 15px;
+height: 15px;
+border-radius: 5px;
+padding-right: 2px;  
+}
+.supa{
+    text-align: right;
+    display: flex;
+    padding-left: 10px;
+}
+.para{
+   text-align: right;
+   padding-right: 10px;
+bottom: 40px;
+color: black;
+font-weight: bold;
+position: relative;
+display: block;
+}
+.para p{
+    width: 60px;
+    float: right;
+margin-top: 40px;
+}
+
+                /*EVERYTHING ADS ENDS HERE*/
+                  /*FIRST ROW ENDS HERE*/
+                /*NAV STARTS HERE AND MAIN BODY STARTS HERE*/
+.nav{
+    background-color: #23395d;
+   height: 90vh;
+    
+}
+.nav ul{
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 30px;
+}
+.nav ul li{
+    list-style: none;
+    padding-top: 25px;
+    color: grey;
+font-weight: bold;
+}
+.nav ul li a{
+    color: white;
+    font-weight: lighter !important;
+    padding-top: 15px !important;
+}
+.spant{
+    text-align: center;
+    width: 60px;
+    color:white;
+    float: right;
+    margin-right: 35px;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
+
+.spank{
+    text-align: center;
+    width: 60px;
+    color:white;
+    float: right;
+    margin-right: 35px;
+    background-color: lightcoral;
+border-radius: 5px;
+}
+.right{
+    color: white;
+    float: right;
+    position: relative;
+    width: 30px;
+    bottom: 20px;
+    padding-left: 15px;
+}
+.main{
+    width: 20px;
+    color: white;
+}
+.article{
+    background-color: whitesmoke;
+
+}
+.article .row{
+    margin-top: 30px;
+
+}
+.about-col{
+    box-shadow: 3px 3px 2px grey;
+    flex-basis: 15vh;
+    background:#fff;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+transition: 0.5s;
+margin-left: 35px;
+height: 160px;
+
+}
+.about-col p{
+    color: grey;
+}
+
+.about-cols{
+        box-shadow: 3px 3px 2px grey;
+    color: white;
+    flex-basis: 30vh;
+    background:orangered;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+transition: 0.5s;
+margin-left: 45px;
+height: 50px;
+width: 400px;
+position: relative;
+display: block;
+bottom: 80px;
+}
+.orange{
+    color: orangered;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 24px;
+    /* position: absolute; */
+    /* top: -15px; */
+}
+.orange:hover{
+    color: orange;
+    cursor: pointer;
+}
+p{
+    text-align: left;
+    bottom: 30px;
+}
+
+.signal{
+    position: relative;
+    display: block;
+    text-align: right;
+    padding-bottom: 0px;
+    width: 50px;
+    padding-left: 90px;
+    bottom: 65px;
+    font-size: 24px;
+}
+.green{
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+    text-align: left;
+    margin-top: 10px;
+}
+.green:hover{
+    color: lightgreen;
+    cursor: pointer;
+}
+.pink{
+    font-weight: bold;
+    font-size: 24px;
+    color: pink;
+    text-align: left;
+    margin-top: 10px;
+}
+.pink:hover{
+    color: plum;
+    cursor: pointer;
+}
+.blue{
+    font-weight: bold;
+    font-size: 24px;
+    color: skyblue;
+    text-align: left;
+    margin-top: 10px;
+}
+.blue:hover{
+    color: blue;
+    cursor: pointer;
+}
+h5{
+    padding-top: 15px;
+    padding-right: 80px;
+}
+.signals{
+    position: relative;
+    display: block;
+    text-align: right;
+    width: 29px;
+    bottom: 97px;
+    font-size: 18px;
+    background-color: orangered;
+    left: 90px;
+    height: 51px;
+    padding-top: 20px;
+    padding-right: 8px;
+}
+.signalse{
+    position: relative;
+    display: block;
+    text-align: right;
+    width: 29px;
+    bottom: 97px;
+    font-size: 18px;
+    background-color: green;
+    left: 90px;
+    height: 51px;
+    padding-top: 20px;
+    padding-right: 8px;
+}
+.about-colse{
+        box-shadow: 3px 3px 2px grey;
+    color: white;
+    flex-basis: 30vh;
+    background:lightgreen;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+transition: 0.5s;
+margin-left: 45px;
+height: 50px;
+width: 400px;
+position: relative;
+display: block;
+bottom: 80px;
+}
+.about-colset{
+        box-shadow: 3px 3px 2px grey;
+    color: white;
+    flex-basis: 30vh;
+    background:pink;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+transition: 0.5s;
+margin-left: 45px;
+height: 50px;
+width: 400px;
+position: relative;
+display: block;
+bottom: 80px;
+}
+.test1{
+    background-color: orangered;
+    width: 185px;
+    padding: none !important;
+    margin-right: none !important;
+height: 50px;
+}
+.test1 h5{
+    display: block;
+    position: relative;
+text-align: right;
+width: 80px;
+left: 25px;
+bottom: 55px;
+padding-right: 10px ;
+}
+.test1 span{
+    display: block;
+    position: relative;
+    top: 0px;
+    width: 15px;
+text-align: left;
+font-size: 24px;
+right: 13px;
+padding-left: 5px;
+background-color: orangered;
+height: 50px;
+padding-top: 5px;
+}
+.test2{
+    background-color: green;
+    width: 185px;
+    padding: none !important;
+    margin-right: none !important;
+height: 50px;
+}
+.test2 h5{
+    display: block;
+    position: relative;
+text-align: right;
+width: 80px;
+left: 25px;
+bottom: 55px;
+padding-right: 10px ;
+}
+.test2 span{
+    display: block;
+    position: relative;
+    top: 0px;
+    width: 15px;
+text-align: left;
+font-size: 24px;
+right: 13px;
+padding-left: 5px;
+background-color: green;
+height: 50px;
+padding-top: 5px;
+}
+.signals{
+    background-color: green;
+}
+.test1 .signals{
+    background-color: orangered;
+}
+.about-colsett{
+        box-shadow: 3px 3px 2px grey;
+    color: white;
+    flex-basis: 30vh;
+    background:skyblue;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+transition: 0.5s;
+margin-left: 45px;
+height: 50px;
+width: 400px;
+position: relative;
+display: block;
+bottom: 80px;
+}
+.about-cols h5{
+    font-size: 18px;
+}
+.about-colse h5{
+    font-size: 18px;
+}
+.about-colset h5{
+    font-size: 18px;
+}
+.about-colsett h5{
+    font-size: 18px;
+}
+.about-colt{
+    background-color: white !important;
+    width: 550px;
+    margin-left: 31px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px lightgray;
+}
+.about-cold{
+    background-color: #00f0a8;
+    font-size: 12px;
+    box-shadow: 5px 5px 2px lightgray;
+    width: 327px;
+    margin-left: 25px;
+    color: white;
+    text-align: left;
+    padding-left: 2px;
+    padding-top: 25px;
+    font-weight: bolder;
+}
+.about-cold ul{
+        list-style: none;
+font-weight: bold;
+}
+.about-cold ul li{
+    margin-top: 3px;
+}
+.rowdy{
+    display: flex;
+position: relative;
+bottom: 65px;
+height: 265px;
+}
+.about-colt h6{
+    margin-left: 10px;
+    text-align: left;
+    padding-top: 15px;
+}
+.about-colt p{
+    margin-left: 10px;
+    font-size: 12px;
+}
+.iconic{
+    display: flex;
+    color: black;
+    width: 80px;
+    float: right;
+    position: relative;
+    bottom: 60px;
+    margin-right: 45px;
+    text-align: center;
+}
+.iconic i{
+    padding-left: 25px;
+}
+.Ongod{
+    display: flex;
+    width: 250px;
+    margin-left: 35px;
+}
+.Ongod ul{
+list-style-type: none;
+margin-left: 15px;
+margin-bottom: 20px;
+
+}
+.Ongod ul li {
+padding-left: 15px;
+font-size: 12px;
+}/*
+.bar{
+    background-color: red;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 60px;
+    padding-left: 20px;
+  left: 20px;
+  margin-bottom: 60px;
+}
+.bars{
+   background-color: white;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 110px;
+    padding-left: 20px;
+  left: 20px;  
+}
+.bare{
+    background-color: white;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 80px;
+    padding-left: 20px;
+  left: 20px;    
+}
+.bard{
+    background-color: white;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 150px;
+    padding-left: 20px;
+  left: 20px;    
+}
+.barde{
+    background-color: white;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding-left: 20px;
+  left: 20px;    
+}
