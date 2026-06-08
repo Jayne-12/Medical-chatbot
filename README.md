@@ -7,4 +7,4 @@ Technologies Used:
 * Natural Language Processing (NLP)
 * Flask
 * Pandas
-* Deepseek AI
+* Deepseek API
